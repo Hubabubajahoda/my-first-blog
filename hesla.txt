@@ -1,0 +1,21 @@
+GitHub meno: Hubabubajahoda, heslo NTLkbcv6918
+Python anywhere meno: NataliaSefcikova, heslo: NTLkbcv6918
+
+spustenie virtualneho prostredia prikaz: myvenv\Scripts\activate
+spustenie prikazoveho riadku na akutalnom mieste - najdem si folder vo WIN exploreri, kliknem do adresneho riadku a napisem CMD
+HACK: pri funkcii ktora ma definovany parameter a chcem aby tento nemusel byt zadany pouzijem znak * na zaciatku nazvu parametru
+
+LOCALHOST adresa: http://127.0.0.1:8000/
+
+Zoznam ma [] zatvorky, clenovia zoznamu sa indexuju od cisla 0
+Slovnik ma {} zatvorky a neindexuje sa
+sort() zoraduje hodnoty od najnizsej po najvyssiu
+reverse() otoci poradie clenov v zozname
+append () prida noveho clena zoznamu na koniec
+pop () odstrani clena zoznamu, zapisuje sa ako NAZOVZOZNAMU.pop(INDEXCLENA)
+opacne lomitko \ vynechava nasledujuci znak tzn. ak chcem pouzit napr. i'm tak musim cez i\'m aby ukazal string ako i'm
+zobrazovanie hodnot zo slovnika - pouziju sa [] pretoze kluc je v podstate index a teda zobrazujem index kluca
+vypisanie klucov slovnika je cez prikaz keys, teda NAZOVSLOVNIKA.keys()
+odsadenie - prave 4 medzery
+za prikazom print, else, elif musi ist dvojbodka - rozumej UROB TOTO. teda, ak plati podmienka, UROB toto
+ak pouzivam range, definujem ho do zatvoriek (), oddelene ciarkou a pri pouziti rangu sa zoberie do uvahy prva a predposledna hodnota - POSLEDNA HODNOTA SA NEPOUZIJE
